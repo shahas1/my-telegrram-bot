@@ -1,1 +1,2 @@
-worker: python many.py
+web: python many.py
+
