@@ -1,2 +1,0 @@
-web: python many.py
-
